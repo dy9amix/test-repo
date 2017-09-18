@@ -1,0 +1,130 @@
+*{
+	box-sizing: boder-box;
+}
+
+body
+{
+	background-image: url(http://i.imgur.com/HB3vHCL.jpg) ;
+	  min-height: 100%;
+     min-width: 1024px
+	background-repeat:no-repeat;
+	background-position: center center;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.companylogo
+{
+	border:0px auto;
+	margin-top: 0px;
+	margin: 0 auto;
+	width :100;
+	height :75;
+	
+}
+
+.options ul
+{
+	margin-left: 200px;
+	margin: 0 auto;
+	text-align: center;
+	bottom: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+ 
+
+ .options li
+ {		
+		display: inline;
+		font-family: 'Ubuntu', sans-serif;
+		font-size: 15px;
+		font-weight: 150px;
+		text-transform: uppercase;
+		text-align: right;
+		padding: 10px;
+		
+ }
+ 
+ ul
+ {
+	margin: 0;
+	text-align: right;
+
+ }
+ 
+ li
+ {
+	display: inline;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 15px;
+	font-weight: 150px;
+	color: white;
+	background-color: Goldenrod;
+	text-transform: uppercase;
+	text-align: right;
+	padding: 0 20px;
+		
+ }
+
+.logo
+ {
+	 width: 150px;
+	 margin-right: 100px;
+	 height: 75px;
+	 display: inline;
+	 margin: 0px auto;
+ }
+
+ 
+ h1
+ {
+	text-align: center; 
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+	color: white;
+	text-decoration
+ }
+ 
+ p
+ {
+	 text-align: center;
+	 font-family: 'Ubuntu', sans-serif;
+	 font-size: 25px;
+	 color: white;
+	 padding-top: 40px;
+ }
+ 
+ 
+ .signup
+ {
+	 margin-left:650px;
+	 margin-top:50px;
+	width: 200px;
+	text-align: center;
+	background-color: #333;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+ }
+ .QUESTIONS
+ {
+		 margin-left:650px;
+	 margin-top:50px;
+	width: 200px;
+	text-align: center;
+	background-color: Chocolate;
+  color: White;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none; 
+ }
